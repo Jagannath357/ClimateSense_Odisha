@@ -1,0 +1,41 @@
+{
+  "target": "WS2M",
+  "unit": "m/s",
+  "feature_columns": [
+    "district",
+    "month",
+    "day_of_year",
+    "month_sin",
+    "month_cos",
+    "WS2M_lag_1",
+    "WS2M_lag_2",
+    "WS2M_lag_3",
+    "WS2M_lag_7",
+    "WS2M_lag_14",
+    "WS2M_rolling_7d"
+  ],
+  "model_type": "hist_gradient_boosting_regressor",
+  "model_parameters": {
+    "max_iter": 180,
+    "learning_rate": 0.06,
+    "random_state": 42
+  },
+  "train": {
+    "rows": 95655,
+    "date_min": "2001-01-15",
+    "date_max": "2018-07-01"
+  },
+  "validation": {
+    "rows": 20550,
+    "date_min": "2018-07-02",
+    "date_max": "2022-04-01"
+  },
+  "test": {
+    "rows": 20550,
+    "date_min": "2022-04-02",
+    "date_max": "2025-12-31"
+  },
+  "data_fingerprint_sha256": "e50dbb94140a7f5de6e46568717fbb2e3b0cb8c15ad086ec3e407d3e0538a815",
+  "model_version": "0.3.0",
+  "created_at": "2026-11-03T04:57:14.614089+00:00"
+}
