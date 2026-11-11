@@ -1,0 +1,118 @@
+[
+  {
+    "target": "T2M",
+    "stage": "validation",
+    "unit": "deg C",
+    "rows": 20550,
+    "MAE": 0.5509576001734443,
+    "RMSE": 0.7546443698582106,
+    "R2": 0.9723590429949268
+  },
+  {
+    "target": "T2M",
+    "stage": "test",
+    "unit": "deg C",
+    "rows": 20550,
+    "MAE": 0.5570965220248333,
+    "RMSE": 0.7648853757779103,
+    "R2": 0.9731526664807947
+  },
+  {
+    "target": "T2M_MAX",
+    "stage": "validation",
+    "unit": "deg C",
+    "rows": 20550,
+    "MAE": 0.8549586786992096,
+    "RMSE": 1.1842497138197503,
+    "R2": 0.9390283371907248
+  },
+  {
+    "target": "T2M_MAX",
+    "stage": "test",
+    "unit": "deg C",
+    "rows": 20550,
+    "MAE": 0.8781473356403507,
+    "RMSE": 1.2350277032005048,
+    "R2": 0.9396364115710524
+  },
+  {
+    "target": "T2M_MIN",
+    "stage": "validation",
+    "unit": "deg C",
+    "rows": 20550,
+    "MAE": 0.7450944970479249,
+    "RMSE": 1.0514424672466887,
+    "R2": 0.9604722387237169
+  },
+  {
+    "target": "T2M_MIN",
+    "stage": "test",
+    "unit": "deg C",
+    "rows": 20550,
+    "MAE": 0.7171047501502221,
+    "RMSE": 0.9984580876714504,
+    "R2": 0.9639089710287365
+  },
+  {
+    "target": "RH2M",
+    "stage": "validation",
+    "unit": "%",
+    "rows": 20550,
+    "MAE": 3.368060828427843,
+    "RMSE": 4.679618342921088,
+    "R2": 0.9234731317814544
+  },
+  {
+    "target": "RH2M",
+    "stage": "test",
+    "unit": "%",
+    "rows": 20550,
+    "MAE": 3.1831727258774234,
+    "RMSE": 4.446526113399051,
+    "R2": 0.9369399588530227
+  },
+  {
+    "target": "WS2M",
+    "stage": "validation",
+    "unit": "m/s",
+    "rows": 20550,
+    "MAE": 0.43306728415818874,
+    "RMSE": 0.6261606302836078,
+    "R2": 0.6723966858135119
+  },
+  {
+    "target": "WS2M",
+    "stage": "test",
+    "unit": "m/s",
+    "rows": 20550,
+    "MAE": 0.41221075640184374,
+    "RMSE": 0.5735123047887917,
+    "R2": 0.6999380072285057
+  },
+  {
+    "target": "PRECTOTCORR",
+    "stage": "validation",
+    "unit": "mm/day",
+    "rows": 20550,
+    "MAE": 3.127191457511778,
+    "RMSE": 8.706760662178262,
+    "rain_occurrence_accuracy": 0.904720194647202,
+    "rain_occurrence_precision": 0.9398155385336877,
+    "rain_occurrence_recall": 0.9100817438692098,
+    "rain_occurrence_f1": 0.924709682380989,
+    "rain_occurrence_roc_auc": 0.9570570111151298
+  },
+  {
+    "target": "PRECTOTCORR",
+    "stage": "test",
+    "unit": "mm/day",
+    "rows": 20550,
+    "MAE": 2.778947096790975,
+    "RMSE": 6.619218738389915,
+    "rain_occurrence_accuracy": 0.9235036496350365,
+    "rain_occurrence_precision": 0.9519647336018849,
+    "rain_occurrence_recall": 0.9301893798737467,
+    "rain_occurrence_f1": 0.9409510930809105,
+    "rain_occurrence_roc_auc": 0.9672221586008947
+  }
+]

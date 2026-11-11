@@ -1,0 +1,33 @@
+{
+  "target": "T2M",
+  "features": [
+    "year",
+    "doy",
+    "T2M_MAX",
+    "T2M_MIN",
+    "T2MDEW",
+    "RH2M",
+    "PRECTOTCORR",
+    "WS2M",
+    "ALLSKY_SFC_SW_DWN",
+    "PS",
+    "month",
+    "day_of_year",
+    "month_sin",
+    "month_cos"
+  ],
+  "metrics": {
+    "validation": {
+      "MAE": 0.1996280048784642,
+      "RMSE": 0.26793773419203404,
+      "R2": 0.9965155345410127,
+      "rows": 20550
+    },
+    "test": {
+      "MAE": 0.18987943190912485,
+      "RMSE": 0.2486606588942554,
+      "R2": 0.997162586680002,
+      "rows": 20550
+    }
+  }
+}

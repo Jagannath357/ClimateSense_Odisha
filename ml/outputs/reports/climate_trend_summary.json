@@ -1,0 +1,32 @@
+{
+  "baseline_period": [
+    2001,
+    2010
+  ],
+  "variables": {
+    "T2M": "\u00b0C",
+    "T2M_MAX": "\u00b0C",
+    "T2M_MIN": "\u00b0C",
+    "PRECTOTCORR": "mm/day",
+    "RH2M": "%",
+    "WS2M": "m/s"
+  },
+  "districts": [
+    "angul",
+    "bargarh",
+    "bhadrak",
+    "cuttack",
+    "gajapati",
+    "ganjam",
+    "kalahandi",
+    "kendrapada",
+    "keojhar",
+    "khurda",
+    "koraput",
+    "malkangiri",
+    "puri",
+    "sambalpur",
+    "sundargarh"
+  ],
+  "note": "Observed historical trends are separate from short-term forecasts. Kendall p-values do not correct for all possible serial correlation or multiple testing."
+}

@@ -1,0 +1,7 @@
+{
+  "rows_before": 136965,
+  "rows_after": 136965,
+  "infinite_values_replaced": 0,
+  "imputation": "none; missing values retained",
+  "sentinel": "-999 converted to NaN"
+}

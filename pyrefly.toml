@@ -1,0 +1,18 @@
+# Pyrefly Configuration for ClimateSense Odisha
+# Specifies virtual environment interpreter and site-packages so Pyrefly resolves all packages
+
+python-interpreter-path = "ml/.venv/Scripts/python.exe"
+site-packages-path = [
+    "ml/.venv/Lib/site-packages"
+]
+search-path = [
+    ".",
+    "backend",
+    "backend/app",
+    "ml",
+    "ml/src"
+]
+
+[errors]
+missing-import = false
+

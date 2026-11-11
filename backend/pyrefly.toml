@@ -1,0 +1,16 @@
+# Pyrefly Configuration for Backend
+python-interpreter-path = "../ml/.venv/Scripts/python.exe"
+site-packages-path = [
+    "../ml/.venv/Lib/site-packages"
+]
+search-path = [
+    ".",
+    "app",
+    "..",
+    "../ml",
+    "../ml/src"
+]
+
+[errors]
+missing-import = false
+

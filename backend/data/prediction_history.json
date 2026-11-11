@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "8dfce083",
+    "timestamp": "2026-11-11T11:13:07.176259+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-11",
+    "prediction_date": "2026-11-12",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.76,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.16,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 15.84,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 78.25,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 1.14,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.4,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "bb6065e7",
+    "timestamp": "2026-11-11T11:12:47.033089+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "857abecb",
+    "timestamp": "2026-11-11T11:04:59.702068+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "015515c0",
+    "timestamp": "2026-11-11T11:04:59.630192+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "48c8c5d4",
+    "timestamp": "2026-11-11T11:04:59.559310+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "aa38ed72",
+    "timestamp": "2026-11-11T09:23:26.486442+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "f82dc7f5",
+    "timestamp": "2026-11-11T09:21:49.914010+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-11-11",
+    "prediction_date": "2026-11-12",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 22.36,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 27.36,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 17.6,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 80.33,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 2.29,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.5,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "8ebdaefb",
+    "timestamp": "2026-11-11T09:21:34.503250+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-11-11",
+    "prediction_date": "2026-11-12",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 22.36,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 27.36,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 17.6,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 80.33,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 2.29,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.5,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "59a70d02",
+    "timestamp": "2026-11-11T09:21:20.879682+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "97bdf6b7",
+    "timestamp": "2026-11-09T16:16:39.377324+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-09",
+    "prediction_date": "2026-11-10",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.9,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.22,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 15.92,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 77.88,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.46,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.3,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "16bc9297",
+    "timestamp": "2026-11-09T16:15:01.531864+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "3b5d8701",
+    "timestamp": "2026-11-09T16:14:33.463576+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-09",
+    "prediction_date": "2026-11-10",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.9,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.22,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 15.92,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 77.88,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.46,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.3,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "0724b795",
+    "timestamp": "2026-11-09T16:14:20.034339+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "70d7624d",
+    "timestamp": "2026-11-09T16:12:32.944086+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-11-09",
+    "prediction_date": "2026-11-10",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 22.51,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 27.49,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 17.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 80.0,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.5,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.38,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "c35f010c",
+    "timestamp": "2026-11-09T16:12:25.795544+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "b1312d51",
+    "timestamp": "2026-11-09T16:12:21.977187+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "78ae714f",
+    "timestamp": "2026-11-05T12:54:30.930909+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "87a8cd55",
+    "timestamp": "2026-11-05T12:54:27.480157+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "26eeaa6e",
+    "timestamp": "2026-11-05T12:44:17.268036+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "73813f2f",
+    "timestamp": "2026-11-05T12:44:17.210079+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "8923d9cb",
+    "timestamp": "2026-11-05T12:44:17.137874+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "262c3ca0",
+    "timestamp": "2026-11-05T11:48:54.377602+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-05",
+    "prediction_date": "2026-11-06",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 21.76,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.97,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 17.05,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 78.69,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.15,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.23,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "1b3a02e9",
+    "timestamp": "2026-11-05T11:48:29.281929+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "c1dda641",
+    "timestamp": "2026-11-05T11:47:11.118313+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "1b856f9e",
+    "timestamp": "2026-11-05T11:46:16.014063+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-05",
+    "prediction_date": "2026-11-06",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 21.76,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.97,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 17.05,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 78.69,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.15,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.23,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "f5318b95",
+    "timestamp": "2026-11-05T11:45:55.167903+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "6bcaec6d",
+    "timestamp": "2026-11-05T11:44:48.579255+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "5aef79d5",
+    "timestamp": "2026-11-05T11:44:39.467508+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "73e6a04a",
+    "timestamp": "2026-11-05T11:44:39.398281+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "9ccb8a34",
+    "timestamp": "2026-11-05T11:44:39.279187+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "f0dada39",
+    "timestamp": "2026-11-05T11:42:06.584917+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "275dd7e4",
+    "timestamp": "2026-11-05T11:41:48.999449+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "1f09126f",
+    "timestamp": "2026-11-05T11:40:05.240596+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "a475b616",
+    "timestamp": "2026-11-05T11:35:13.050071+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "ebc5c499",
+    "timestamp": "2026-11-05T11:34:34.901944+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "89e6f5b4",
+    "timestamp": "2026-11-05T11:26:11.940372+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "ce44b953",
+    "timestamp": "2026-11-05T11:23:56.228737+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "15b8d0d0",
+    "timestamp": "2026-11-05T11:21:37.519985+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-11-05",
+    "prediction_date": "2026-11-06",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 23.35,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.31,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 18.69,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 80.6,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.18,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.28,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "445a5b3a",
+    "timestamp": "2026-11-05T11:20:35.586033+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "0b41864b",
+    "timestamp": "2026-11-05T11:14:07.290528+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "da8fb527",
+    "timestamp": "2026-11-05T11:14:07.229920+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "47c03b46",
+    "timestamp": "2026-11-05T11:14:07.165630+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "6ca1fa1f",
+    "timestamp": "2026-11-05T11:08:29.277141+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "3997c5dd",
+    "timestamp": "2026-11-05T11:08:29.223676+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "90c46639",
+    "timestamp": "2026-11-05T11:08:29.155701+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "95ccd9e2",
+    "timestamp": "2026-11-05T11:02:43.135330+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "cfdd8c4b",
+    "timestamp": "2026-11-05T11:02:43.080905+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "7b8a4f9c",
+    "timestamp": "2026-11-05T11:02:43.006166+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "04c8f185",
+    "timestamp": "2026-11-05T11:00:18.194421+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "1d4bddf2",
+    "timestamp": "2026-11-05T11:00:18.131878+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "c74c888a",
+    "timestamp": "2026-11-05T11:00:18.049888+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "320b1794",
+    "timestamp": "2026-11-05T10:42:45.921601+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "f3e2c759",
+    "timestamp": "2026-11-05T10:42:45.860925+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "3bd5eb8d",
+    "timestamp": "2026-11-05T10:42:45.738498+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "214306a0",
+    "timestamp": "2026-11-05T10:42:00.052210+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "1fd8b8aa",
+    "timestamp": "2026-11-05T10:41:59.991303+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "3103e74c",
+    "timestamp": "2026-11-05T10:41:59.860074+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "7df8c520",
+    "timestamp": "2026-11-05T10:38:12.707553+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "788f7b8a",
+    "timestamp": "2026-11-05T10:38:12.655566+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "a72b1f23",
+    "timestamp": "2026-11-05T10:38:12.589142+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  }
+]

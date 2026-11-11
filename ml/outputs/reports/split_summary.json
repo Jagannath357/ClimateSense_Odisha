@@ -1,0 +1,83 @@
+{
+  "strategy": "chronological_global",
+  "ratios": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15000000000000005
+  },
+  "total_rows": 136965,
+  "splits": {
+    "train": {
+      "rows": 95865,
+      "date_min": "2001-01-01T00:00:00",
+      "date_max": "2018-07-01T00:00:00",
+      "district_counts": {
+        "angul": 6391,
+        "bargarh": 6391,
+        "bhadrak": 6391,
+        "cuttack": 6391,
+        "gajapati": 6391,
+        "ganjam": 6391,
+        "kalahandi": 6391,
+        "kendrapada": 6391,
+        "keojhar": 6391,
+        "khurda": 6391,
+        "koraput": 6391,
+        "malkangiri": 6391,
+        "puri": 6391,
+        "sambalpur": 6391,
+        "sundargarh": 6391
+      }
+    },
+    "validation": {
+      "rows": 20550,
+      "date_min": "2018-07-02T00:00:00",
+      "date_max": "2022-04-01T00:00:00",
+      "district_counts": {
+        "angul": 1370,
+        "bargarh": 1370,
+        "bhadrak": 1370,
+        "cuttack": 1370,
+        "gajapati": 1370,
+        "ganjam": 1370,
+        "kalahandi": 1370,
+        "kendrapada": 1370,
+        "keojhar": 1370,
+        "khurda": 1370,
+        "koraput": 1370,
+        "malkangiri": 1370,
+        "puri": 1370,
+        "sambalpur": 1370,
+        "sundargarh": 1370
+      }
+    },
+    "test": {
+      "rows": 20550,
+      "date_min": "2022-04-02T00:00:00",
+      "date_max": "2025-12-31T00:00:00",
+      "district_counts": {
+        "angul": 1370,
+        "bargarh": 1370,
+        "bhadrak": 1370,
+        "cuttack": 1370,
+        "gajapati": 1370,
+        "ganjam": 1370,
+        "kalahandi": 1370,
+        "kendrapada": 1370,
+        "keojhar": 1370,
+        "khurda": 1370,
+        "koraput": 1370,
+        "malkangiri": 1370,
+        "puri": 1370,
+        "sambalpur": 1370,
+        "sundargarh": 1370
+      }
+    }
+  },
+  "target_rows": {
+    "train": 95875,
+    "validation": 20545,
+    "test": 20545
+  },
+  "overlap_dates": []
+}

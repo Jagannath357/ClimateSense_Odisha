@@ -1,0 +1,29 @@
+[tool.pyrefly]
+python-interpreter-path = "ml/.venv/Scripts/python.exe"
+site-packages-path = ["ml/.venv/Lib/site-packages"]
+search-path = [
+    ".",
+    "backend",
+    "backend/app",
+    "ml",
+    "ml/src"
+]
+
+[tool.pyrefly.errors]
+missing-import = false
+
+[tool.pyright]
+venvPath = "ml"
+venv = ".venv"
+extraPaths = [
+    ".",
+    "backend",
+    "ml/src",
+    "ml/.venv/Lib/site-packages"
+]
+reportMissingImports = false
+
+[tool.pytest.ini_options]
+testpaths = ["backend/tests"]
+pythonpath = [".", "backend", "ml/src"]
+
