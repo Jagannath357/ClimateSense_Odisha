@@ -13,6 +13,7 @@ import {
   GeospatialDataMode,
   MapVisualizationMode,
   WeatherParameterKey,
+  BasemapStyle,
 } from '../types';
 import { useTheme } from '../context/ThemeContext';
 import { useGeospatialClimate } from '../hooks/useGeospatialClimate';
@@ -53,6 +54,7 @@ export const GeospatialClimateMap: React.FC<GeospatialClimateMapProps> = ({
   );
   const [resetTrigger, setResetTrigger] = useState<number>(0);
   const [isFullscreen, setIsFullscreen] = useState<boolean>(false);
+  const [basemapStyle, setBasemapStyle] = useState<BasemapStyle>('canvas');
 
   const mapWorkspaceRef = useRef<HTMLDivElement>(null);
 
@@ -333,6 +335,8 @@ export const GeospatialClimateMap: React.FC<GeospatialClimateMapProps> = ({
             onToggleFullscreen={handleToggleFullscreen}
             onRefresh={retry}
             loading={loading}
+            basemapStyle={basemapStyle}
+            onChangeBasemapStyle={setBasemapStyle}
           />
         </div>
 
@@ -357,6 +361,7 @@ export const GeospatialClimateMap: React.FC<GeospatialClimateMapProps> = ({
               dataMode={dataMode}
               resetTrigger={resetTrigger}
               isFullscreen={isFullscreen}
+              basemapStyle={basemapStyle}
             />
 
             {/* Dynamic Legend */}

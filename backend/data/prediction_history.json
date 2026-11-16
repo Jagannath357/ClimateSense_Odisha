@@ -1,5 +1,1201 @@
 [
   {
+    "id": "5bd03fc1",
+    "timestamp": "2026-11-16T10:59:12.276111+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-16",
+    "prediction_date": "2026-11-17",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.2,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.1,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 14.93,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.8,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.4,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "dcf62445",
+    "timestamp": "2026-11-16T10:59:05.882159+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "6a9db4fa",
+    "timestamp": "2026-11-16T10:59:03.321790+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "f39ed3c2",
+    "timestamp": "2026-11-16T10:58:55.320382+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "15cb76e9",
+    "timestamp": "2026-11-16T10:58:13.252525+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-16",
+    "prediction_date": "2026-11-17",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.2,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.1,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 14.93,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.8,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.4,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "a5d25f9c",
+    "timestamp": "2026-11-16T10:58:12.541326+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-16",
+    "prediction_date": "2026-11-17",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.2,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.1,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 14.93,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.8,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.4,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "de3c9e55",
+    "timestamp": "2026-11-16T10:58:08.259766+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "c0619383",
+    "timestamp": "2026-11-16T10:58:07.230638+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "664c965d",
+    "timestamp": "2026-11-16T10:58:05.938213+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "aab8f09f",
+    "timestamp": "2026-11-16T10:58:04.525794+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "3ffa5ded",
+    "timestamp": "2026-11-16T10:57:13.827814+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-16",
+    "prediction_date": "2026-11-17",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.2,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.1,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 14.93,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.8,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.4,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "350b7c0b",
+    "timestamp": "2026-11-16T10:57:07.831850+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "3548b4d2",
+    "timestamp": "2026-11-16T10:52:50.852720+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-16",
+    "prediction_date": "2026-11-17",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.2,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.1,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 14.93,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.8,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.4,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "8792ea3e",
+    "timestamp": "2026-11-16T10:52:39.083721+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "aec01320",
+    "timestamp": "2026-11-16T10:50:43.266601+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2026-10-29",
+    "prediction_date": "2026-10-30",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 24.06,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 28.56,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 19.71,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 81.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.69,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.37,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "4108d98f",
+    "timestamp": "2026-11-16T10:50:43.087817+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.92,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.68,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.41,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 73.73,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.03,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "d335df04",
+    "timestamp": "2026-11-16T10:50:42.649655+00:00",
+    "district": "cuttack",
+    "district_display_name": "Cuttack",
+    "input_date": "2025-12-30",
+    "prediction_date": "2025-12-31",
+    "data_status": "historical_observation_available",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 17.03,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.3,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.62,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.57,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 0.97,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "2f4ee9a0",
+    "timestamp": "2026-11-16T10:40:30.771959+00:00",
+    "district": "bhadrak",
+    "district_display_name": "Bhadrak",
+    "input_date": "2026-11-16",
+    "prediction_date": "2026-11-17",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 21.97,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 27.46,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 17.05,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.31,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.83,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.42,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "7e47312b",
+    "timestamp": "2026-11-16T10:40:20.204291+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-16",
+    "prediction_date": "2026-11-17",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.2,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.1,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 14.93,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.8,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.4,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "d5a121d2",
+    "timestamp": "2026-11-16T10:38:42.662882+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-16",
+    "prediction_date": "2026-11-17",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.2,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.1,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 14.93,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.8,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.4,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "80e03d04",
+    "timestamp": "2026-11-16T10:38:40.726522+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-11-16",
+    "prediction_date": "2026-11-17",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 20.2,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 26.1,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 14.93,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 76.72,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.8,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.4,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "9d1cd108",
+    "timestamp": "2026-11-16T10:38:31.071204+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2025-12-31",
+    "prediction_date": "2026-01-01",
+    "data_status": "latest_observation_forecast",
+    "is_climatological_estimate": false,
+    "predictions": {
+      "T2M": {
+        "value": 16.29,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 23.65,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 10.84,
+        "unit": "\u00b0C",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.79,
+        "unit": "%",
+        "status": "available",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.0,
+        "unit": "mm/day",
+        "status": "available",
+        "rainfall_category": {
+          "category": "No Rainfall",
+          "description": "No measurable precipitation (0 mm)",
+          "badge_color": "emerald"
+        }
+      },
+      "WS2M": {
+        "value": 1.01,
+        "unit": "m/s",
+        "status": "available",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
+    "id": "0b409b11",
+    "timestamp": "2026-11-16T10:38:00.295867+00:00",
+    "district": "keojhar",
+    "district_display_name": "Kendujhar (Keonjhar)",
+    "input_date": "2026-01-01",
+    "prediction_date": "2026-01-02",
+    "data_status": "stale_source_climatology_only",
+    "is_climatological_estimate": true,
+    "predictions": {
+      "T2M": {
+        "value": 17.57,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MAX": {
+        "value": 25.02,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "T2M_MIN": {
+        "value": 11.32,
+        "unit": "\u00b0C",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "RH2M": {
+        "value": 65.93,
+        "unit": "%",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      },
+      "PRECTOTCORR": {
+        "value": 0.95,
+        "unit": "mm/day",
+        "status": "climatological_estimate",
+        "rainfall_category": {
+          "category": "Very Light",
+          "description": "Very light rainfall (0.01 - 2.5 mm)",
+          "badge_color": "cyan"
+        }
+      },
+      "WS2M": {
+        "value": 1.3,
+        "unit": "m/s",
+        "status": "climatological_estimate",
+        "rainfall_category": null
+      }
+    }
+  },
+  {
     "id": "8dfce083",
     "timestamp": "2026-11-11T11:13:07.176259+00:00",
     "district": "keojhar",

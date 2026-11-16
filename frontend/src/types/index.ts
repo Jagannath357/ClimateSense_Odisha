@@ -258,6 +258,7 @@ export interface DashboardSummary {
 export type WeatherParameterKey = 'T2M' | 'RH2M' | 'PRECTOTCORR' | 'WS2M';
 export type MapVisualizationMode = 'markers' | 'heatmap';
 export type GeospatialDataMode = 'prediction' | 'observation';
+export type BasemapStyle = 'canvas' | 'osm' | 'satellite';
 
 export interface GeospatialDistrictPrediction {
   district: string;

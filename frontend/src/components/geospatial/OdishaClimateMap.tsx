@@ -14,6 +14,7 @@ import {
   GeospatialDistrictPrediction,
   MapVisualizationMode,
   WeatherParameterKey,
+  BasemapStyle,
 } from '../../types';
 import { GeoJsonFeatureCollection } from '../../hooks/useGeospatialClimate';
 import {
@@ -82,6 +83,7 @@ interface OdishaClimateMapProps {
   dataMode: string;
   resetTrigger: number;
   isFullscreen: boolean;
+  basemapStyle?: BasemapStyle;
 }
 
 function createValueBadgeIcon(
@@ -195,6 +197,7 @@ export const OdishaClimateMap: React.FC<OdishaClimateMapProps> = ({
   dataMode,
   resetTrigger,
   isFullscreen,
+  basemapStyle = 'canvas',
 }) => {
   const markerRefs = useRef<Record<string, L.Marker | null>>({});
 
@@ -215,9 +218,35 @@ export const OdishaClimateMap: React.FC<OdishaClimateMapProps> = ({
     }
   }, [selectedDistrictId, visualizationMode]);
 
-  const tileUrl = isDark
-    ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
-    : 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png';
+  // 100% Free, Zero API-Key, Watermark-Free Basemap Configurations
+  const tileConfig = useMemo(() => {
+    switch (basemapStyle) {
+      case 'osm':
+        return {
+          url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+          attribution:
+            '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors',
+          maxZoom: 19,
+        };
+      case 'satellite':
+        return {
+          url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+          attribution:
+            'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community',
+          maxZoom: 18,
+        };
+      case 'canvas':
+      default:
+        return {
+          url: isDark
+            ? 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}'
+            : 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',
+          attribution:
+            'Tiles &copy; <a href="https://www.esri.com/" target="_blank" rel="noreferrer">Esri</a> &mdash; Esri, DeLorme, NAVTEQ',
+          maxZoom: 16,
+        };
+    }
+  }, [basemapStyle, isDark]);
 
   const geoJsonCompositeKey = `${dataMode}-${predictionDate}-${activeParameter}-${visualizationMode}-${selectedDistrictId || 'none'}-${isDark ? 'dark' : 'light'}-${districts.length}`;
 
@@ -261,12 +290,14 @@ export const OdishaClimateMap: React.FC<OdishaClimateMapProps> = ({
         scrollWheelZoom={true}
         className="w-full h-full z-10"
         style={{
-          backgroundColor: isDark ? '#020617' : '#f1f5f9',
+          backgroundColor: isDark ? '#1a1b1e' : '#f1f5f9',
         }}
       >
         <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-          url={tileUrl}
+          key={`${basemapStyle}-${isDark ? 'dark' : 'light'}`}
+          attribution={tileConfig.attribution}
+          url={tileConfig.url}
+          maxZoom={tileConfig.maxZoom}
         />
 
         <MapViewportController
